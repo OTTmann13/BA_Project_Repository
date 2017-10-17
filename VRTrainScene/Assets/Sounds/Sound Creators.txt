@@ -1,0 +1,25 @@
+forest:
+	Creator: VKProduktion
+	From: https://freesound.org/people/VKProduktion/sounds/231537/
+	Name: Forest_Birds (loop) 02.wav
+	Licence: Creative Common 0 No Copyright
+start engine over:
+	Creator: lonemonk
+	From: https://freesound.org/people/lonemonk/sounds/167909/
+	Name: Engine Turnover-No Start.wav
+	Licence: Creative Commons (CC BY 3.0)
+engine stall:
+	Creator: InspectorJ
+	From: https://freesound.org/people/InspectorJ/sounds/345559/
+	Name: Car, Engine Off, A.wav
+	Licence: Creative Commons (CC BY 3.0)
+car engine:
+	Creator: 1histori
+	From: https://freesound.org/people/1histori/sounds/345925/
+	Name: Car Engine.wav
+	Licence: Creative Commons (CC BY 3.0)
+barrier alarm:
+	Creator: magedu
+	From: https://freesound.org/people/magedu/sounds/262636/
+	Name: railroad_crossing_warning_signal_and_gate_close.wav
+	Licence: Creative Commons (CC BY 3.0)
